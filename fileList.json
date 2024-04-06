@@ -1,0 +1,6 @@
+{
+	"~": [".xinitrc", ".bashrc"],
+	"~/.config/picom": ["picom.conf", "picom.con"],
+	"~/.config/dwm": ["config.h"],
+	"~/.config/st": ["config.h"]
+}
