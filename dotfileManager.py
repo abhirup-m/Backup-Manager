@@ -1,8 +1,10 @@
+#!/bin/python
 # Script to manage dotfiles
 import sys
 import json
 import os
 import shutil
+import subprocess
 
 # read json file that lists all dotfiles that must be tracked.
 objectList = json.load(open(sys.argv[1]))
@@ -36,10 +38,10 @@ for i, (baseName, objectPath) in enumerate(zip(baseNames[1:], objectPaths[1:])):
         objectPaths.pop(i+1)
 
 # create folder for copying all dotfiles into
-targetFolderPath = os.path.expanduser(os.path.join(".", "dotfilesFolder"))
-if not os.path.exists(targetFolderPath):
-    os.mkdir(targetFolderPath)
+dotfilesFolderPath = os.path.expanduser(os.path.join(".", "dotfilesFolder"))
+if not os.path.exists(dotfilesFolderPath):
+    os.mkdir(dotfilesFolderPath)
 
 # copy all uniquely named dotfiles
 for (baseName, objectPath) in zip(baseNames, objectPaths):
-    shutil.copy2(objectPath, os.path.join(targetFolderPath, baseName))
+    shutil.copy2(objectPath, os.path.join(dotfilesFolderPath, baseName))

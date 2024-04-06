@@ -1,0 +1,16 @@
+cat()
+{
+	/usr/bin/cat $1 || /usr/bin/cat $(which $1)
+}
+
+
+alias grep="/usr/bin/grep -i --color=always"
+alias df="/usr/bin/df -h | /usr/bin/grep /dev/sd"
+alias diff="/usr/bin/diff --suppress-common-lines -yEZbwB"
+alias gp="git push origin master"
+alias 7z="7z a -t7z -m0=lzma -mx=9 -mfb=64 -md=32m -ms=on"
+alias ls="/usr/bin/ls -AF --group-directories-first --color=always -1"
+alias ydm="youtube-dlc --extract-audio --audio-format mp3"
+alias cyth="cythonize --3str -j 10  --no-docstrings -a -i"
+alias pyth=~/.venv/computation/bin/python
+alias mpython=~/miniconda3/bin/python
