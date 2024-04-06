@@ -45,3 +45,10 @@ if not os.path.exists(dotfilesFolderPath):
 # copy all uniquely named dotfiles
 for (baseName, objectPath) in zip(baseNames, objectPaths):
     shutil.copy2(objectPath, os.path.join(dotfilesFolderPath, baseName))
+
+# create folder for storing pacman package lists
+packagesFolderPath = os.path.expanduser(os.path.join(".", "packagesFolder"))
+if not os.path.exists(packagesFolderPath):
+    os.mkdir(packagesFolderPath)
+os.popen("pacman -Qqen > {}/nativePackages.txt".format(packagesFolderPath))
+os.popen("pacman -Qqen > {}/aurPackages.txt".format(packagesFolderPath))
