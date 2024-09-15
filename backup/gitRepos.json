@@ -1,0 +1,18 @@
+{
+    "/home/storage/.config/dwm/": [
+        "origin\tgit@github.com:abhirup-m/dwm-config.git (fetch)",
+        "origin\tgit@github.com:abhirup-m/dwm-config.git (push)"
+    ],
+    "/home/storage/.config/nvim/": [
+        "origin\tgit@github.com:abhirup-m/Neovim-Dotfiles.git (fetch)",
+        "origin\tgit@github.com:abhirup-m/Neovim-Dotfiles.git (push)"
+    ],
+    "/home/storage/.config/st/": [
+        "origin\tgit@github.com:abhirup-m/simple-terminal-config.git (fetch)",
+        "origin\tgit@github.com:abhirup-m/simple-terminal-config.git (push)"
+    ],
+    "/home/storage/bin": [
+        "origin\thttps://github.com/abhirup-m/shell-scripts.git (fetch)",
+        "origin\thttps://github.com/abhirup-m/shell-scripts.git (push)"
+    ]
+}

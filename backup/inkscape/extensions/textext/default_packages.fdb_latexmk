@@ -1,0 +1,27 @@
+# Fdb version 4
+["pdflatex"] 1722693080.91489 "default_packages.tex" "default_packages.pdf" "default_packages" 1722693081.29051 2
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/amscls/amsthm.sty" 1591045760 12594 0d51ac3a545aaaa555021326ff22a6cc ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1359763108 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty" 1359763108 13829 94730e64147574077f8ecfea9bb69af4 ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1717359999 2222 2166a1f7827be30ddc30434e5efcee1b ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty" 1717359999 4173 d22509bc0c91281d991b2de7c88720dd ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty" 1717359999 88370 47fa7ec33a33125284e7c3c8193c6ce1 ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty" 1717359999 4474 23ca1d3a79a57b405388059456d0a8df ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty" 1717359999 2444 71618ea5f2377e33b04fb97afdd0eac2 ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1717359999 20144 67a5f8e0f9e445e8ec6834e595cebdc9 ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1717359999 8448 358bf3de18513f057a13bdc6e6770c41 ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/braket/braket.sty" 1266794558 3601 193635d942bc4777a5acaaeeffdce692 ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty" 1715459803 3755 4872b99d810c024f9c09bb1c62ffee3b ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1716410060 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty" 1717617347 6565 9112779ee7624275fd04efaf61c82420 ""
+  "/home/storage/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1716410060 9327 090c6c81eff433de1562ec6a5b1b31ee ""
+  "/home/storage/texlive/2024/texmf-dist/web2c/texmf.cnf" 1719785820 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
+  "/home/storage/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1722673259 8239479 eed069eec9fc5195bc2a4c7355e2a929 ""
+  "/home/storage/texlive/2024/texmf.cnf" 1722673040.93932 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "default_packages.aux" 1722693080.90832 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "default_packages.tex" 1722693080.18832 262 97bed5a55c1d99cfaa5242cde8b19c8c ""
+  (generated)
+  "default_packages.aux"
+  "default_packages.log"
+  "default_packages.pdf"
+  (rewritten before read)

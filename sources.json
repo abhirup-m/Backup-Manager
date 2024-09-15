@@ -1,0 +1,31 @@
+{
+	"dotfiles": [
+		"/home/storage/.config/dunst/",
+  		"/home/storage/.config/dwm/",
+  		"/home/storage/.config/fish/",
+  		"/home/storage/.config/glib-2.0/",
+  		"/home/storage/.config/gpicview/",
+  		"/home/storage/.config/gthumb/",
+  		"/home/storage/.config/gtk-3.0/",
+  		"/home/storage/.config/gtk-4.0/",
+  		"/home/storage/.config/inkscape/",
+  		"/home/storage/.config/nvim/",
+  		"/home/storage/.config/picom/",
+  		"/home/storage/.config/st/",
+  		"/home/storage/.config/textext/",
+  		"/home/storage/.config/Thunar/",
+  		"/home/storage/.config/yay/",
+  		"/home/storage/.config/zathura/",
+		"/home/storage/bin"
+	],
+	"system-files": [
+		"/etc/doas.conf",
+  		"/etc/pacman.conf",
+  		"/etc/X11/xorg.conf.d/99-touchpad.conf"
+	],
+	"themes": "/home/storage/.themes",
+	"icons": "/home/storage/.icons",
+	"fonts": "/home/storage/.fonts",
+	"packages": "pacman -Qqe",
+	"conda": "/home/storage/miniconda3/bin/conda"
+}

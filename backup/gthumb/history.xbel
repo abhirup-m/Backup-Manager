@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/am/storage/physicsSimulations/maxwellBoltzmann" added="2024-08-27T18:36:57.924146Z" modified="2024-08-27T18:36:57.924190Z" visited="2024-08-27T18:36:57.924148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T18:36:57.924184Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/am/storage/pictures" added="2024-08-27T18:36:57.924195Z" modified="2024-08-27T18:36:57.924207Z" visited="2024-08-27T18:36:57.924196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T18:36:57.924201Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/am/storage/pictures/walls" added="2024-08-27T18:36:57.924214Z" modified="2024-08-27T18:36:57.924222Z" visited="2024-08-27T18:36:57.924215Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T18:36:57.924219Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/am" added="2024-08-27T18:36:57.924226Z" modified="2024-08-27T18:36:57.924234Z" visited="2024-08-27T18:36:57.924226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T18:36:57.924231Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/am/storage/websites/inscight/assets/images/members" added="2024-08-27T18:36:57.924240Z" modified="2024-08-27T18:36:57.924250Z" visited="2024-08-27T18:36:57.924240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T18:36:57.924245Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/am/storage" added="2024-08-27T18:36:57.924254Z" modified="2024-08-27T18:36:57.924266Z" visited="2024-08-27T18:36:57.924254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T18:36:57.924259Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

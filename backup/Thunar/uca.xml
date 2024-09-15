@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1725775696213702-1</unique-id>
+	<command>st -c float-term</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>blue-folder-copy</icon>
+	<name>Copy path</name>
+	<submenu></submenu>
+	<unique-id>1725821788489396-1</unique-id>
+	<command>echo %f | xclip -i -selection clipboard -rmlastnl</command>
+	<description>Copy file path to clipboard</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>nvim</icon>
+	<name>Open in neovim</name>
+	<submenu></submenu>
+	<unique-id>1726343542208315-1</unique-id>
+	<command>st -c Editor nvim %f</command>
+	<description>Open in neovim</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<text-files/>
+</action>
+</actions>
