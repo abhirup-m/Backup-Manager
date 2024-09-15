@@ -1,18 +1,6 @@
 {
-    "/home/storage/.config/dwm/": [
-        "origin\tgit@github.com:abhirup-m/dwm-config.git (fetch)",
-        "origin\tgit@github.com:abhirup-m/dwm-config.git (push)"
-    ],
-    "/home/storage/.config/nvim/": [
-        "origin\tgit@github.com:abhirup-m/Neovim-Dotfiles.git (fetch)",
-        "origin\tgit@github.com:abhirup-m/Neovim-Dotfiles.git (push)"
-    ],
-    "/home/storage/.config/st/": [
-        "origin\tgit@github.com:abhirup-m/simple-terminal-config.git (fetch)",
-        "origin\tgit@github.com:abhirup-m/simple-terminal-config.git (push)"
-    ],
-    "/home/storage/bin": [
-        "origin\thttps://github.com/abhirup-m/shell-scripts.git (fetch)",
-        "origin\thttps://github.com/abhirup-m/shell-scripts.git (push)"
-    ]
+    "/home/storage/.config/dwm/": "git@github.com:abhirup-m/dwm-config.git",
+    "/home/storage/.config/nvim/": "git@github.com:abhirup-m/Neovim-Dotfiles.git",
+    "/home/storage/.config/st/": "git@github.com:abhirup-m/simple-terminal-config.git",
+    "/home/storage/bin": "https://github.com/abhirup-m/shell-scripts.git"
 }

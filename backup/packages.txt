@@ -23,7 +23,6 @@ fisher
 flex
 fzf
 gcc
-gnome-screenshot
 google-chrome-beta
 gparted
 gpick
@@ -58,10 +57,13 @@ patch
 perl
 picom
 pkgconf
+python-colorama
 python-lsp-server
 python-pyflakes
 python-pynvim
 python-pyqt5-webengine
+screengrab
+scrotre-git
 slock
 texinfo
 texlab
